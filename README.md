@@ -30,7 +30,3 @@ The database includes four tables:
 
 - MySQL or PostgreSQL database
 - SQL client (e.g., MySQL Workbench, pgAdmin)
-
-## License
-
-MIT License - see [LICENSE](LICENSE) for details.
